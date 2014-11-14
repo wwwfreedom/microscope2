@@ -1,0 +1,3 @@
+currently user can summit anything as a url need to restrict only to structure of a typical website address
+  use regular expression (javascript implementation)
+  use css to implement the structure of an address
